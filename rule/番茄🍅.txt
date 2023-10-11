@@ -9,9 +9,6 @@
 --------------------------------
 ||*bsgslb.cn^$app=com.dragon.read
 --------------------------------
-书籍封面
-||*byteimg.com^$app=com.dragon.read
---------------------------------
 ||*ecombdapi.com^$app=com.dragon.read
 ||*bytegoofy.com^$app=com.dragon.read
 --------------------------------
