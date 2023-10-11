@@ -1,0 +1,17 @@
+--------------------------------
+番茄小说
+||*default.365yg.com^$app=com.dragon.read
+||*pstatp.com^$app=com.dragon.read
+||*aliyuncs.com^$app=com.dragon.read
+--------------------------------
+福利页面-书内视频广告-AI阅读广告
+||*snssdk.com^$app=com.dragon.read
+--------------------------------
+||*bsgslb.cn^$app=com.dragon.read
+--------------------------------
+书籍封面
+||*byteimg.com^$app=com.dragon.read
+--------------------------------
+||*ecombdapi.com^$app=com.dragon.read
+||*bytegoofy.com^$app=com.dragon.read
+--------------------------------
